@@ -4,7 +4,7 @@
 
 안녕하세요! 😀
 
-Na-Log는, Raccoon과 Otter가 함께 만드는 Tech blog입니다! \
+Na-Log는, Raccoon과 Otter가 함께 만드는 Tech blog입니다. \
 블로그에는 비전공자들의 개발자 성장 과정을 담았습니다. 😀
 
 [🚀 블로그 바로가기](https://nerd-animals.github.io/na-log/)
