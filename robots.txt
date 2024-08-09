@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /write
+
+Sitemap: https://otterbits.github.io/sitemap.xml
