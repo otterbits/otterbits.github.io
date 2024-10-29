@@ -5,7 +5,7 @@
 안녕하세요! 😀
 
 Na-Log는, Raccoon과 Otter가 함께 만드는 Tech blog입니다. \
-블로그에는 비전공자들의 개발자 성장 과정을 담았습니다. 😀
+블로그에는 비전공자들의 개발자 성장 과정을 담았습니다. ss
 
 [🚀 블로그 바로가기](https://nerd-animals.github.io/na-log/)
 
@@ -16,12 +16,12 @@ Na-Log는, Raccoon과 Otter가 함께 만드는 Tech blog입니다. \
 
 ## 🦝 About Us 🦦
 
-### Raccoon is..
+### Raccoon is
 
 - 비전공 현직 개발자입니다.
 - 주로 프로젝트 관리를 맡고 있습니다.
 
-### Otter is..
+### Otter is
 
 - 비전공 개발 취준생입니다.
 - Front-end 개발을 맡고 있습니다.
